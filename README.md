@@ -1,2 +1,2 @@
-# Site-Project
-Projeto facultativo feito por Katsu Mouley, HardcodedCat and others.
+# FunnyBots site
+Project created by KatsuMouley, HardcodedCat and others.
